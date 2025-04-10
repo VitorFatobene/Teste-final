@@ -15,5 +15,4 @@ senao
     escreva("O número é zero")
 fimse 
 
-
 fimalgoritmo
