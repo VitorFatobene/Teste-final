@@ -70,4 +70,5 @@ fimse
 quartRating := ((percentNew + percentJardaNew + percentTouchNew + percentIntercepNew) * 100) / 6
 escreval ("O QuartRating do quarterback foi ", quartRating)
 
+
 fimalgoritmo
